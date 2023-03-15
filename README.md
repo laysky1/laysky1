@@ -29,23 +29,14 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br><br>
+<div align=center >
+	<h3><img src="https://img.shields.io/badge/Github%20State-181717?style=flat&logo=GitHub&logoColor=white"/> & Language </h3>
+	<br>
+</div>
 <div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysky1&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=laysky1&show_icons=true">
 
 </div>
-<!--
-**laysky1/laysky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
